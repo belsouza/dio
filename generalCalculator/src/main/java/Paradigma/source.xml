@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<class>
+    <carro>
+        <nome>Golf Variant</nome>
+        <lugares>5</lugares>
+    </carro>
+
+    <carro>
+        <nome>Zafira</nome>
+        <lugares>7</lugares>
+    </carro>
+
+    <carro>
+        <nome>Ford Expedition</nome>
+        <lugares>8</lugares>
+    </carro>
+
+    <carro>
+        <nome>Mobi</nome>
+        <lugares>4</lugares>
+    </carro>
+
+    <carro>
+        <nome>Spin</nome>
+        <lugares>5</lugares>
+    </carro>
+
+    <carro>
+        <nome>Tinguan</nome>
+        <lugares>7</lugares>
+    </carro>
+
+</class>  
